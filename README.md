@@ -23,4 +23,4 @@ A clean, responsive web application for searching and viewing user profiles from
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/dummy-user-search.git
+git clone https://github.com/SachinPro007/dummy-user-search.git
